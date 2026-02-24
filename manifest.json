@@ -1,0 +1,10 @@
+{
+    "id": "replace-em-dash",
+    "name": "Replace Em Dash",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically replaces -- with — (em dash)",
+    "author": "João Marcos",
+    "authorUrl": "https://github.com/JoaoNoturno",
+    "isDesktopOnly": false
+}

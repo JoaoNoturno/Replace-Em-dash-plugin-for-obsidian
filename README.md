@@ -1,4 +1,3 @@
-# Auto Travessão
+# Auto Em Dash
 
-Plugin simples para Obsidian que converte automaticamente `--` em travessão `—` enquanto você digita.
-
+A simple Obsidian plugin that automatically converts `--` into an em dash `—` while you type.
